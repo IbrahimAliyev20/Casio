@@ -1,0 +1,430 @@
+{
+    "home": {
+        "title": "Casio Azerbaijan",
+        "description": "Casio Azerbaijan",
+        "hero": {
+            "title": "Sənin Üslubun, Sənin Zamanın",
+            "subtitle": "Casio-nun yüksək performanslı saatları ilə dayanıqlığın gücünü hiss et."
+        },
+        "catalog": {
+            "men": "Kişilər üçün",
+            "women": "Qadınlar üçün",
+            "children": "Uşaqlar üçün",
+            "goTo": "Keçid et"
+        },
+        "selectedProducts": {
+            "title": "Seçilmiş Məhsullar"
+        },
+        "discountedProducts": {
+            "title": "Endirimli Məhsullar"
+        },
+        "product": {
+            "addToCart": "Səbətə at",
+            "outOfStock": "Stokda yoxdur",
+            "buyNow": "İndi al",
+            "contactWhatsApp": "Whatsapp ilə əlaqə",
+            "similarColors": "Fərqli rənglərdə oxşar məhsullar",
+            "stockCount": "Stok sayı",
+            "viewDetails": "Ətraflı bax",
+            "quantity": "Miqdar"
+        }
+    },
+    "navigation": {
+        "home": "Ana səhifə",
+        "catalog": "Kataloq",
+        "about": "Haqqımızda",
+        "contact": "Bizimlə əlaqə",
+        "login": "Giriş",
+        "account": "Hesab",
+        "search": "Axtarış"
+    },
+    "auth": {
+        "login": {
+            "title": "Daxil ol",
+            "description": "Qeydiyyatda olduğunuz email adresi və şifrənizi daxil edin.",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Email adresinizi daxil edin",
+            "passwordLabel": "Şifrə",
+            "passwordPlaceholder": "Şifrənizi daxil edin",
+            "rememberMe": "Yadda saxla",
+            "forgotPassword": "Şifrəni unutmusunuz?",
+            "submitButton": "Daxil ol",
+            "loggingIn": "Daxil olunur...",
+            "noAccount": "Hesabınız yoxdur?",
+            "registerLink": "Qeydiyyatdan keçin",
+            "showPassword": "Şifrəni göstər",
+            "hidePassword": "Şifrəni gizlət"
+        },
+        "register": {
+            "title": "Qeydiyyatdan keç",
+            "description": "Email adresinizi daxil edin. Sizə təsdiq kodu göndərəcəyik.",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Email adresinizi daxil edin",
+            "continueButton": "Davam et",
+            "hasAccount": "Hesabınız var?",
+            "loginLink": "Daxil ol"
+        },
+        "otp": {
+            "title": "OTP",
+            "description": "Sizin emailinizə təsdiq kodu göndərilmişdir. Zəhmət olmasa həmin kodu daxil edin.",
+            "didntReceive": "Kodu almadınız?",
+            "resend": "Yenidən göndər",
+            "confirmButton": "Təsdiq et"
+        },
+        "setPassword": {
+            "title": "Şifrə təyini",
+            "description": "Emailiniz uğurla təsdiqləndi. Şifrənizi təyin edin",
+            "passwordLabel": "Şifrə",
+            "passwordPlaceholder": "Şifrənizi daxil edin",
+            "repeatPasswordLabel": "Şifrə təkrarı",
+            "repeatPasswordPlaceholder": "Şifrənizi təkrar edin",
+            "passwordHint": "Şifrəniz 8 simvoldan ibarət olmalıdır.",
+            "passwordMinLength": "Şifrə ən azı 8 simvoldan ibarət olmalıdır.",
+            "passwordsDoNotMatch": "Şifrələr uyğun gəlmir.",
+            "saveButton": "Yadda saxla",
+            "showPassword": "Şifrəni göstər",
+            "hidePassword": "Şifrəni gizlət"
+        },
+        "resetPassword": {
+            "title": "Şifrəni Sıfırla",
+            "description": "Hesab şifrənizi sıfırlamaq üçün yeni şifrənizi daxil edin.",
+            "passwordLabel": "Şifrə",
+            "passwordPlaceholder": "Şifrənizi daxil edin",
+            "repeatPasswordLabel": "Şifrə təkrarı",
+            "repeatPasswordPlaceholder": "Şifrənizi təkrar edin",
+            "passwordHint": "Şifrəniz 8 simvoldan ibarət olmalıdır.",
+            "passwordMinLength": "Şifrə ən azı 8 simvoldan ibarət olmalıdır.",
+            "passwordsDoNotMatch": "Şifrələr uyğun gəlmir.",
+            "saveButton": "Şifrəni Sıfırla",
+            "showPassword": "Şifrəni göstər",
+            "hidePassword": "Şifrəni gizlət"
+        },
+        "sendForgetMail": {
+            "title": "Şifrəni Unutdum",
+            "description": "Email adresinizi daxil edin. Şifrənizi sıfırlamaq üçün sizə kod göndərəcəyik.",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Email adresinizi daxil edin",
+            "continueButton": "Davam et",
+            "hasAccount": "Şifrənizi xatırlayırsınız?",
+            "loginLink": "Daxil ol"
+        },
+        "success": {
+            "title": "Hesabınız uğurla yaradıldı!",
+            "description": "Keçid edərək öz hesabınıza daxil ola bilərsiniz",
+            "loginButton": "Daxil ol"
+        }
+    },
+    "about": {
+        "aboutUs": {
+            "title": "Haqqımızda",
+            "content": "Casio, innovasiya, dəqiqlik və funksionallığı bir araya gətirən qlobal texnologiya markasıdır. 1946-cı ildən bu günə qədər şirkət həyatın hər sahəsində insanlara daha ağıllı, daha rahat və daha etibarlı həllər təqdim etməyi hədəfləyib. Casio-nun əsas fəlsəfəsi gündəlik istifadə üçün sadə görünən, lakin içində yüksək mühəndislik daşıyan cihazlar yaratmaqdır. Şirkət illər boyu saatlar, kalkulyatorlar, musiqi alətləri və rəqəmsal texnologiyalar sahəsində yenilikçi həlləri ilə fərqlənib. Casio-nun uğurunun təməli həm dizayn, həm texnologiya, həm də dayanıqlılığa verilən xüsusi dəyərdir. Biz hər məhsulda istifadəçinin həyatına real dəyər əlavə etməyə fokuslanırıq. G-Shock kimi əfsanəvi modellər güc və davamlılığın simvoluna çevrilərək dünya üzrə milyonlarla insanın seçimi olub. Şirkət olaraq yalnız cihaz yaratmırıq - insanlara həyat ritmini daha sabit və idarəolunan şəkildə yaşamağa imkan verən bir ekosistem təqdim edirik. Casio dünyasında hər detal mühəndislik dəqiqliyi ilə formalaşır. Məhsullarımız həm gündəlik istifadəçilər, həm də peşəkarlar üçün ən yüksək keyfiyyəti təmin edir. Qlobal miqyasda fəaliyyət göstərməyimizə baxmayaraq, hər bazarın ehtiyaclarına uyğun lokal həllər təklif etməyə xüsusi diqqət ayırırıq. Uzun illik təcrübəmiz bizi texnologiya və innovasiya sahəsində lider markalardan birinə çevirib."
+        },
+        "values": {
+            "title": "Dəyərlərimiz",
+            "content": "Casio olaraq fəaliyyətimizin mərkəzində insanlara fayda gətirən texnologiya yaratmaq dayanır. Biz hər bir məhsulda yüksək dəqiqlik və etibarlılıq prinsiplərindən kənara çıxmırıq. Şirkət olaraq sadəlik və funksionallığın vəhdətini əsas dizayn anlayışımız kimi qəbul edirik. Davamlılıq bizim üçün yalnız bir söz deyil, uzunmüddətli strategiyanın əsas dayağıdır. Hər yeni məhsulda enerjiyə qənaət, uzun ömürlülük və ekoloji təsirin minimallaşdırılması əsas prioritetdir. Komandalarımız daim araşdırır, inkişaf etdirir və real həyatda istifadəçinin ehtiyaclarını öyrənir. Biz yenilikçiliyi təsadüfi bir proses kimi deyil, sistemli və məqsədyönlü şəkildə tətbiq edirik. İstifadəçi mərkəzli yanaşma biznesimizin ayrılmaz hissəsidir. Hər cihaz sadəcə alət deyil - insanın gündəlik həyatına dəyər qatan yoldaşdır. Qlobal korporasiya olmağımıza baxmayaraq, hər regionun mədəniyyətinə, ehtiyaclarına və davranışlarına hörmətlə yanaşırıq. Komandadakı şəffaflıq, əməkdaşlıq və etibar brendimizin uzunömürlü olmasının əsas amillərindəndir. Bizim üçün hər uğurlu məhsul real dəyər yaradan düşüncə və məsuliyyətlə formalaşır."
+        },
+        "missionVision": {
+            "title": "Missiya və Vizyonumuz",
+            "mission": "Casio olaraq missiyamız insanların gündəlik həyatını daha funksional, dəqiq və rahat edən innovativ texnologiyalar yaratmaqdır. Məhsullarımızda mühəndislik gücünü intuitiv dizaynla birləşdirərək istifadəçilərə hər anı daha effektiv idarə etmək imkanı veririk. Bizim üçün məqsəd sadəcə cihaz istehsal etmək deyil, real dəyər yaradan, uzunömürlü və etibarlı həllər təqdim etməkdir. Hər yeni məhsulda davamlılıq, enerjiyə qənaət və yüksək performans prinsiplərini qoruyuruq. İstifadəçi məmnuniyyəti və əlçatan texnologiya yaratmaq fəaliyyətimizin əsas istiqamətidir.",
+            "vision": "Vizyonumuz gələcəyin texnologiyasını bu gündən formalaşdıraraq dünyada həyat keyfiyyətini artırmaqdır. Biz daha ağıllı, daha dayanıqlı və daha intuitiv məhsullar yaratmaqla insanla texnologiya arasında təbii bağ qurmağı hədəfləyirik. Casio-nun gələcək ekosistemi istifadəyə yönəlmiş ağıllı sistemlərdən ibarət olacaq və hər kəsin öz ritmini daha rahat şəkildə idarə etməsinə imkan verəcək. Yenilikçilik bizim üçün yaşam tərzidir və bu yanaşma ilə qlobal miqyasda liderliyimizi gücləndirməyə davam edirik."
+        }
+    },
+    "catalog": {
+        "title": "Kataloq",
+        "productsFound": "məhsul tapıldı",
+        "sort": "Sıralama",
+        "sortOptions": {
+            "newest": "Ən yenilər",
+            "mostSold": "Ən çox satılanlar",
+            "priceLowToHigh": "Ucuzdan bahaya",
+            "priceHighToLow": "Bahadan ucuza",
+            "exists": "Stokda olanlar"
+        },
+        "filtersTitle": "Filtrlər",
+        "filters": {
+            "price": "Qiymət",
+            "min": "Min",
+            "max": "Max",
+            "category": "Kateqoriya",
+            "categories": "Kateqoriyalar",
+            "catalogs": "Kataloqlar",
+            "brand": "Brend",
+            "gender": "Cins",
+            "male": "Kişi",
+            "female": "Qadın",
+            "unisex": "Unisex",
+            "glass": "Şüşə",
+            "glassTypes": {
+                "antiReflectiveSapphire": "Antireflekt örtüklü sapfir",
+                "mineral": "Mineral",
+                "plastic": "Plastik",
+                "sapphire": "Sapfir"
+            },
+            "strap": "Kəmər",
+            "strapMaterials": {
+                "alcantara": "Alkantar",
+                "bioPlastic": "Bio Plastik",
+                "leather": "Dəri",
+                "fabric": "Parça",
+                "stainlessSteel": "Paslanmaz polad",
+                "polymerPlastic": "Polimer plastik",
+                "steel": "Polad"
+            },
+            "mechanism": "Mexanizm",
+            "quartz": "Kvars",
+            "mechanical": "Mexaniki",
+            "search": "Axtarın"
+        },
+        "loadMore": "Daha çox",
+        "loading": "Yüklənir...",
+        "error": "Xəta baş verdi",
+        "noProducts": "Məhsul tapılmadı"
+   
+    },
+    "contact": {
+        "title": "Əlaqə vasitələri",
+        "phone": {
+            "label": "Telefon nömrəsi",
+            "numbers": [
+                "+994 50 700 77 77",
+                "+994 70 777 77 77"
+            ]
+        },
+        "email": {
+            "label": "Email",
+            "address": "info@casiobaku.az"
+        },
+        "socialMedia": {
+            "label": "Sosial şəbəkələr"
+        },
+        "storeAddresses": {
+            "label": "Mağaza ünvanları",
+            "addresses": [
+                "Nizami rayonu, Nəsimi küçəsi, Bakı",
+                "Nizami rayonu, Nəsimi küçəsi, Bakı",
+                "Nizami rayonu, Nəsimi küçəsi, Bakı"
+            ]
+        },
+        "stores": {
+            "title": "Mağazalar",
+            "tabs": {
+                "all": "Hamısı",
+                "baku": "Bakı",
+                "sumgait": "Sumqayıt",
+                "ganja": "Gəncə"
+            },
+            "workingHours": "B.ertəsi-Cümə 09:00-21:00",
+            "loading": "Yüklənir...",
+            "noStores": "Mağaza tapılmadı",
+            "items": [
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                },
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                },
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                },
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                }
+            ]
+        }
+    },
+    "product_grid": {
+        "price": "Qiymət",
+        "product": "Məhsul",
+        "title": "Başlıq",
+        "discount": "Endirim",
+        "on_sale": "Satışda",
+        "loading": "Yüklənir..."
+    },
+    "favorites": {
+        "title": "Sevimlilər",
+        "category": "Kateqoriya",
+        "inStock": "Stokda olanlar",
+        "emptyState": "Sevimlilər siyahısı boşdur",
+        "sortOptions": {
+            "newest": "Əvvəlcə ən yenilər",
+            "priceLowToHigh": "Əvvəlcə ən ucuz olanlar",
+            "priceHighToLow": "Əvvəlcə ən bahalı olanlar",
+            "onSale": "Endirimde olanlar"
+        }
+    },
+    "privacy": {
+        "introduction": "Casio Bakı platforması istifadəçilərinin şəxsi məlumatlarının məxfiliyini qorumağa tam üstünlük verir. Bu sənəd məlumatların hansı məqsədlərlə toplandığını və necə istifadə edildiyini izah edir.",
+        "informationCollected": {
+            "title": "Toplanan Məlumatlar",
+            "intro": "Biz aşağıdakı məlumatları toplaya bilərik:",
+            "items": [
+                "Ad, soyad",
+                "Əlaqə məlumatları (telefon, e-poçt)",
+                "Sifariş və ödəniş məlumatları",
+                "Sayt üzərində davranış məlumatları (baxışlar, kliklər və s.)"
+            ]
+        },
+        "purposeOfUse": {
+            "title": "Məlumatlardan İstifadə Məqsədi",
+            "content": "Toplanan məlumatlar sifarişlərin icrası, müştəri dəstəyinin göstərilməsi, istifadəçilərin sorğularının cavablandırılması, kampaniya və yeniliklər barədə məlumatlandırma, həmçinin platformanın funksionallığının təkmilləşdirilməsi üçün istifadə olunur."
+        },
+        "dataProtection": {
+            "title": "Məlumatların Qorunması",
+            "content": "İstifadəçilərin şəxsi məlumatları müasir təhlükəsizlik sistemləri ilə qorunur və üçüncü şəxslərlə istifadəçinin razılığı olmadan paylaşılmır."
+        },
+        "thirdPartySharing": {
+            "title": "Üçüncü Tərəflərlə Paylaşım",
+            "content": "Məlumatlar yalnız ödəniş və çatdırılma xidmətlərinin icrası üçün zəruri hallarda, minimum həcmdə aidiyyəti tərəflərlə paylaşılır."
+        },
+        "cookieUsage": {
+            "title": "Cookie İstifadəsi",
+            "content": "Platforma istifadəçi təcrübəsini yaxşılaşdırmaq və sistemi optimallaşdırmaq məqsədilə cookie texnologiyasından istifadə edir."
+        },
+        "changes": {
+            "title": "Dəyişikliklər",
+            "content": "Casio Bakı bu Məxfilik Siyasətində istənilən vaxt dəyişiklik etmək hüququnu özündə saxlayır. Yenilənmiş şərtlər saytda dərc edildiyi andan etibarən qüvvəyə minir."
+        },
+        "contact": {
+            "title": "Əlaqə",
+            "intro": "Məxfiliklə bağlı suallar üçün bizimlə əlaqə saxlaya bilərsiniz:",
+            "email": "support@casiobaki.az"
+        }
+    },
+    "faq": {
+        "title": "Tez-tez verilən suallar",
+        "questions": {
+            "original": "Məhsulların hər biri orijinaldırmı?",
+            "warranty": "Zəmanət müddəti nə qədərdir?",
+            "delivery": "Çatdırılma neçə günə həyata keçirilir?",
+            "payment": "Ödənişi necə edə bilərəm?",
+            "return": "Məhsulu qaytarmaq və ya dəyişmək mümkündürmü?",
+            "discounts": "Endirim və kampaniyalar barədə necə məlumat ala bilərəm?",
+            "warrantyService": "Zəmanət xidməti harada göstərilir?"
+        },
+        "answers": {
+            "original": "Bəli, Casio Baku-da təqdim olunan bütün saatlar rəsmi və orijinal Casio məhsullarıdır.",
+            "warranty": "Bütün məhsullarımız rəsmi zəmanət ilə təqdim olunur. Zəmanət müddəti məhsulun növündən asılı olaraq 1-2 il arasında dəyişir. Zəmanət kartı məhsulla birlikdə verilir.",
+            "delivery": "Bakı daxilində çatdırılma 1-2 iş günü ərzində həyata keçirilir. Regionlara çatdırılma müddəti 3-5 iş günü arasında dəyişir. Çatdırılma haqqı sifarişin məbləğindən və ünvandan asılı olaraq hesablanır.",
+            "payment": "Ödənişi nağd, bank kartı və ya onlayn ödəniş üsulları ilə edə bilərsiniz. Mağazalarımızda nağd və kartla ödəniş mümkündür. Onlayn sifarişlərdə bank kartları və digər elektron ödəniş sistemləri qəbul olunur.",
+            "return": "Bəli, məhsulu qaytarmaq və ya dəyişmək mümkündür. Alış zamanı verilən qəbz və zəmanət kartı ilə 14 gün ərzində məhsulu qaytara və ya dəyişdirə bilərsiniz. Məhsulun orijinal vəziyyətdə, qablaşdırılması ilə birlikdə olması şərtdir.",
+            "discounts": "Endirim və kampaniyalar barədə məlumat almaq üçün saytımızı müntəzəm yoxlaya bilərsiniz, həmçinin sosial şəbəkələrdə bizə abunə ola bilərsiniz. Xüsusi kampaniyalar və endirimlər barədə məlumatlandırma e-poçt vasitəsilə də göndərilir.",
+            "warrantyService": "Zəmanət xidməti rəsmi Casio xidmət mərkəzlərində göstərilir. Bakıda bir neçə xidmət mərkəzimiz mövcuddur. Zəmanət xidməti ilə bağlı ətraflı məlumat üçün müştəri xidmətləri ilə əlaqə saxlaya bilərsiniz."
+        }
+    },
+    "product": {
+        "similiarProducts": {
+            "title": "Oxşar məhsullar"
+        }
+    },
+    "basket": {
+        "title": "Səbətin",
+        "selectAll": "Hamısını seç",
+        "products": "məhsul",
+        "promoCode": "Promo kod",
+        "promoCodePlaceholder": "Promo kod daxil edin",
+        "promoCodeWarning": "Diqqət! Yalnız bir promo kod istifadə oluna bilər.",
+        "promoCodeApplied": "promo kod tətbiq olundu",
+        "checking": "Yoxlanılır...",
+        "cancelPromo": "Ləğv et",
+        "productPrice": "Məhsulların qiyməti",
+        "discount": "Endirim",
+        "totalPrice": "Yekun qiymət",
+        "completeOrder": "Sifarişi tamamla",
+        "quantity": "ədəd",
+        "remove": "Sil",
+        "empty": "Səbətiniz boşdur",
+        "likedProducts": "Bəyəndiyin məhsullar",
+        "loading": "Yüklənir...",
+        "clearBasket": "Səbəti təmizlə",
+        "apply":"Tətbiq et"
+    },
+    "confirm": {
+        "title": "Sifarişin rəsmiləşdirilməsi",
+        "contactInfo": "Əlaqə məlumatları",
+        "fullName": "Ad, soyad",
+        "fullNamePlaceholder": "Ad və soyadınızı daxil edin",
+        "phoneNumber": "Telefon nömrəsi",
+        "phonePlaceholder": "Telefon nömrənizi daxil edin",
+        "deliveryMethod": "Çatdırılma üsulu",
+        "courierDelivery": "Kuryerlə çatdırılma",
+        "pickupFromStore": "Mağazadan təhvil alacam.",
+        "selectBranch": "Filial seçin",
+        "selectStoreBranch": "Çatdırılacaq ünvanı seçin",
+        "workingHours": "İş saatları",
+        "deliveryAddressTitle": "Sifarişin çatdırılacağı ünvanı qeyd edin.",
+        "city": "Şəhər",
+        "cityPlaceholder": "Şəhəri daxil edin",
+        "postalCode": "Poçt indeksi",
+        "postalCodePlaceholder": "Poçt indeksinizi daxil edin",
+        "address": "Ünvan",
+        "addressPlaceholder": "Çatdırılacaq ünvanı daxil edin",
+        "paymentMethod": "Ödəniş üsulu",
+        "cardPayment": "Plastik karta ödəmə",
+        "cashOnDelivery": "Kuryerə ödəmə",
+        "installmentPayment": "Taksitlə ödəmə",
+        "selectPaymentPeriod": "Ödəniş müddətini seçin.",
+        "monthly": "Aylıq",
+        "addNote": "Qeyd əlavə et",
+        "note": "Qeyd",
+        "notePlaceholder": "Qeydinizi daxil edin",
+        "agreeToTerms": "Şərtlər və qaydalarla razılaşıram",
+        "termsAndConditions": "Şərtlər və qaydalarla",
+        "backToBasket": "Səbətə qayıt",
+        "continue": "Davam et",
+        "basketTitle": "Səbətin",
+        "products": "məhsul",
+        "quantity": "ədəd",
+        "promoCodeApplied": "Promo kod tətbiq olundu",
+        "productPrice": "Məhsulların qiyməti",
+        "discount": "Endirim",
+        "delivery": "Çatdırılma",
+        "finalPrice": "Yekun qiymət"
+    },
+    "toast": {
+        "basket": {
+            "addSuccess": "Məhsul səbətə əlavə edildi",
+            "addError": "Məhsul səbətə əlavə edilərkən xəta baş verdi",
+            "removeSuccess": "Məhsul səbətdən silindi",
+            "removeError": "Məhsul səbətdən silinərkən xəta baş verdi"
+        },
+        "wishlist": {
+            "addSuccess": "Məhsul sevimlilərə əlavə edildi",
+            "addError": "Məhsul sevimlilərə əlavə edilərkən xəta baş verdi",
+            "removeSuccess": "Məhsul sevimlilərdən silindi",
+            "removeError": "Məhsul sevimlilərdən silinərkən xəta baş verdi"
+        },
+        "auth": {
+            "loginSuccess": "Uğurla daxil oldunuz",
+            "loginError": "Daxil olarkən xəta baş verdi",
+            "logoutSuccess": "Uğurla çıxış etdiniz",
+            "otpSent": "Təsdiq kodu göndərildi",
+            "registerError": "Qeydiyyat zamanı xəta baş verdi",
+            "otpVerified": "Təsdiq kodu doğrulandı",
+            "otpError": "Təsdiq kodu yanlışdır",
+            "passwordSet": "Şifrə uğurla təyin edildi",
+            "passwordChanged": "Şifrə uğurla dəyişdirildi",
+            "forgotMailSent": "Şifrə sıfırlama kodu göndərildi",
+            "passwordReset": "Şifrə uğurla sıfırlandı"
+        },
+        "promocode": {
+            "checkSuccess": "Promo kod uğurla tətbiq olundu",
+            "checkError": "Promo kod yanlışdır və ya aktiv deyil"
+        },
+        "order": {
+            "createSuccess": "Sifariş uğurla yaradıldı",
+            "createError": "Sifariş yaradılarkən xəta baş verdi"
+        }
+    }
+}

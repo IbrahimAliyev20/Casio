@@ -1,0 +1,429 @@
+{
+    "home": {
+        "title": "Casio Azerbaijan",
+        "description": "Casio Azerbaijan",
+        "hero": {
+            "title": "Your Style, Your Time",
+            "subtitle": "Feel the power of durability with Casio's high-performance watches."
+        },
+        "catalog": {
+            "men": "For Men",
+            "women": "For Women",
+            "children": "For Children",
+            "goTo": "Go to"
+        },
+        "selectedProducts": {
+            "title": "Selected Products"
+        },
+        "discountedProducts": {
+            "title": "Discounted Products"
+        },
+        "product": {
+            "addToCart": "Add to Cart",
+            "outOfStock": "Out of Stock",
+            "buyNow": "Buy Now",
+            "contactWhatsApp": "Contact via WhatsApp",
+            "similarColors": "Similar products in different colors",
+            "stockCount": "Stock count",
+            "viewDetails": "View details",
+            "quantity": "Quantity"
+        }
+    },
+    "navigation": {
+        "home": "Home",
+        "catalog": "Catalog",
+        "about": "About Us",
+        "contact": "Contact Us",
+        "login": "Login",
+        "account": "Account",
+        "search": "Search"
+    },
+    "auth": {
+        "login": {
+            "title": "Log in",
+            "description": "Enter your registered email address and password.",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Enter your email address",
+            "passwordLabel": "Password",
+            "passwordPlaceholder": "Enter your password",
+            "rememberMe": "Remember me",
+            "forgotPassword": "Forgot your password?",
+            "submitButton": "Log in",
+            "loggingIn": "Logging in...",
+            "noAccount": "Don't have an account?",
+            "registerLink": "Register now",
+            "showPassword": "Show password",
+            "hidePassword": "Hide password"
+        },
+        "register": {
+            "title": "Register",
+            "description": "Enter your email address. We will send you a confirmation code.",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Enter your email address",
+            "continueButton": "Continue",
+            "hasAccount": "Do you have an account?",
+            "loginLink": "Log in"
+        },
+        "otp": {
+            "title": "OTP",
+            "description": "A confirmation code has been sent to your email. Please enter the code.",
+            "didntReceive": "Didn't receive the code?",
+            "resend": "Resend",
+            "confirmButton": "Confirm"
+        },
+        "setPassword": {
+            "title": "Password Assignment",
+            "description": "Your email has been successfully confirmed. Set your password.",
+            "passwordLabel": "Password",
+            "passwordPlaceholder": "Enter your password",
+            "repeatPasswordLabel": "Repeat Password",
+            "repeatPasswordPlaceholder": "Repeat your password",
+            "passwordHint": "Your password must be 8 characters long.",
+            "passwordMinLength": "Password must be at least 8 characters long.",
+            "passwordsDoNotMatch": "Passwords do not match.",
+            "saveButton": "Save",
+            "showPassword": "Show password",
+            "hidePassword": "Hide password"
+        },
+        "resetPassword": {
+            "title": "Reset Password",
+            "description": "Enter your new password to reset your account password.",
+            "passwordLabel": "Password",
+            "passwordPlaceholder": "Enter your password",
+            "repeatPasswordLabel": "Repeat Password",
+            "repeatPasswordPlaceholder": "Repeat your password",
+            "passwordHint": "Your password must be 8 characters long.",
+            "passwordMinLength": "Password must be at least 8 characters long.",
+            "passwordsDoNotMatch": "Passwords do not match.",
+            "saveButton": "Reset Password",
+            "showPassword": "Show password",
+            "hidePassword": "Hide password"
+        },
+        "sendForgetMail": {
+            "title": "Forgot Password",
+            "description": "Enter your email address. We will send you a code to reset your password.",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Enter your email address",
+            "continueButton": "Continue",
+            "hasAccount": "Remember your password?",
+            "loginLink": "Log in"
+        },
+        "success": {
+            "title": "Your account has been successfully created!",
+            "description": "You can log in to your account by navigating.",
+            "loginButton": "Log in"
+        }
+    },
+    "about": {
+        "aboutUs": {
+            "title": "About Us",
+            "content": "Casio is a global technology brand that combines innovation, precision, and functionality. Since 1946, the company has aimed to provide people with smarter, more comfortable, and more reliable solutions in every aspect of life. Casio's core philosophy is to create devices that appear simple for everyday use but contain advanced engineering within. Over the years, the company has distinguished itself with innovative solutions in watches, calculators, musical instruments, and digital technologies. The foundation of Casio's success lies in the special value placed on design, technology, and durability. We focus on adding real value to the user's life with every product. Legendary models like G-Shock have become symbols of power and durability, becoming the choice of millions of people worldwide. As a company, we don't just create devices - we offer an ecosystem that enables people to live their life rhythm in a more stable and manageable way. In the Casio world, every detail is formed with engineering precision. Our products ensure the highest quality for both everyday users and professionals. Despite operating on a global scale, we pay special attention to offering local solutions tailored to each market's needs. Our long years of experience have made us one of the leading brands in technology and innovation."
+        },
+        "values": {
+            "title": "Our Values",
+            "content": "As Casio, creating technology that benefits people is at the center of our activities. We never deviate from the principles of high precision and reliability in every product. As a company, we accept the unity of simplicity and functionality as our core design concept. Sustainability is not just a word for us, but the foundation of our long-term strategy. Energy efficiency, longevity, and minimizing environmental impact are top priorities in every new product. Our teams constantly research, develop, and learn about user needs in real life. We apply innovation not as a random process, but systematically and purposefully. A user-centered approach is an integral part of our business. Every device is not just a tool - it's a companion that adds value to a person's daily life. Despite being a global corporation, we approach each region's culture, needs, and behaviors with respect. Transparency, collaboration, and trust within the team are among the key factors in our brand's longevity. For us, every successful product is formed with thought and responsibility that creates real value."
+        },
+        "missionVision": {
+            "title": "Our Mission and Vision",
+            "mission": "As Casio, our mission is to create innovative technologies that make people's daily lives more functional, precise, and comfortable. By combining engineering power with intuitive design in our products, we enable users to manage every moment more effectively. For us, the goal is not just to manufacture devices, but to offer solutions that create real value, are long-lasting, and reliable. We maintain the principles of durability, energy efficiency, and high performance in every new product. User satisfaction and creating accessible technology are the main directions of our activities.",
+            "vision": "Our vision is to increase the quality of life in the world by shaping the technology of the future from today. We aim to create a natural connection between humans and technology by creating smarter, more durable, and more intuitive products. Casio's future ecosystem will consist of user-oriented smart systems and will enable everyone to manage their own rhythm more comfortably. Innovation is a way of life for us, and with this approach, we continue to strengthen our leadership on a global scale."
+        }
+    },
+    "catalog": {
+        "title": "Catalog",
+        "productsFound": "products found",
+        "sort": "Sort",
+        "sortOptions": {
+            "newest": "Newest",
+            "mostSold": "Most Sold",
+            "priceLowToHigh": "Price: Low to High",
+            "priceHighToLow": "Price: High to Low",
+            "exists": "In Stock"
+        },
+        "filtersTitle": "Filters",
+        "filters": {
+            "price": "Price",
+            "min": "Min",
+            "max": "Max",
+            "category": "Category",
+            "categories": "Categories",
+            "catalogs": "Catalogs",
+            "brand": "Brand",
+            "gender": "Gender",
+            "male": "Male",
+            "female": "Female",
+            "unisex": "Unisex",
+            "glass": "Glass",
+            "glassTypes": {
+                "antiReflectiveSapphire": "Anti-reflective sapphire",
+                "mineral": "Mineral",
+                "plastic": "Plastic",
+                "sapphire": "Sapphire"
+            },
+            "strap": "Strap",
+            "strapMaterials": {
+                "alcantara": "Alcantara",
+                "bioPlastic": "Bio Plastic",
+                "leather": "Leather",
+                "fabric": "Fabric",
+                "stainlessSteel": "Stainless steel",
+                "polymerPlastic": "Polymer plastic",
+                "steel": "Steel"
+            },
+            "mechanism": "Mechanism",
+            "quartz": "Quartz",
+            "mechanical": "Mechanical",
+            "search": "Search"
+        },
+        "loadMore": "Load More",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "noProducts": "No products found"
+
+    },
+    "contact": {
+        "title": "Contact Methods",
+        "phone": {
+            "label": "Phone number",
+            "numbers": [
+                "+994 50 700 77 77",
+                "+994 70 777 77 77"
+            ]
+        },
+        "email": {
+            "label": "Email",
+            "address": "info@casiobaku.az"
+        },
+        "socialMedia": {
+            "label": "Social networks"
+        },
+        "storeAddresses": {
+            "label": "Store addresses",
+            "addresses": [
+                "Nizami rayonu, Nəsimi küçəsi, Bakı",
+                "Nizami rayonu, Nəsimi küçəsi, Bakı",
+                "Nizami rayonu, Nəsimi küçəsi, Bakı"
+            ]
+        },
+        "stores": {
+            "title": "Stores",
+            "tabs": {
+                "all": "All",
+                "baku": "Baku",
+                "sumgait": "Sumgait",
+                "ganja": "Ganja"
+            },
+            "workingHours": "Mon-Fri 09:00-21:00",
+            "loading": "Loading...",
+            "noStores": "No stores found",
+            "items": [
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                },
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                },
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                },
+                {
+                    "name": "Casio Bakı Zefir Mall",
+                    "address": "Bakı | Kənar dairəvi yol, 8",
+                    "phone": "+994 70 777 70 77",
+                    "city": "baku"
+                }
+            ]
+        }
+    },
+    "product_grid": {
+        "price": "Price",
+        "product": "Product",
+        "title": "Title",
+        "discount": "Discount",
+        "on_sale": "On Sale",
+        "loading": "Loading..."
+    },
+    "favorites": {
+        "title": "Favorites",
+        "category": "Category",
+        "inStock": "In stock",
+        "emptyState": "Your favorites list is empty",
+        "sortOptions": {
+            "newest": "Newest first",
+            "priceLowToHigh": "Cheapest first",
+            "priceHighToLow": "Most expensive first",
+            "onSale": "On sale"
+        }
+    },
+    "privacy": {
+        "introduction": "The Casio Baku platform gives full priority to protecting the privacy of its users' personal data. This document explains for what purposes information is collected and how it is used.",
+        "informationCollected": {
+            "title": "Information Collected",
+            "intro": "We may collect the following information:",
+            "items": [
+                "Name, surname",
+                "Contact information (phone, e-mail)",
+                "Order and payment information",
+                "Behavioral data on the site (views, clicks, etc.)"
+            ]
+        },
+        "purposeOfUse": {
+            "title": "Purpose of Using Information",
+            "content": "Collected information is used for order fulfillment, customer support, responding to user inquiries, informing about campaigns and news, as well as improving the platform's functionality."
+        },
+        "dataProtection": {
+            "title": "Data Protection",
+            "content": "Users' personal data is protected by modern security systems and is not shared with third parties without the user's consent."
+        },
+        "thirdPartySharing": {
+            "title": "Sharing with Third Parties",
+            "content": "Information is shared with relevant parties only when necessary for the execution of payment and delivery services, and in minimum volume."
+        },
+        "cookieUsage": {
+            "title": "Cookie Usage",
+            "content": "The platform uses cookie technology to improve user experience and optimize the system."
+        },
+        "changes": {
+            "title": "Changes",
+            "content": "Casio Baku reserves the right to make changes to this Privacy Policy at any time. The updated terms come into effect from the moment they are published on the site."
+        },
+        "contact": {
+            "title": "Contact",
+            "intro": "For privacy-related questions, you can contact us:",
+            "email": "support@casiobaki.az"
+        }
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "questions": {
+            "original": "Are all products original?",
+            "warranty": "What is the warranty period?",
+            "delivery": "How many days does delivery take?",
+            "payment": "How can I pay?",
+            "return": "Is it possible to return or exchange the product?",
+            "discounts": "How can I get information about discounts and campaigns?",
+            "warrantyService": "Where is warranty service provided?"
+        },
+        "answers": {
+            "original": "Yes, all watches presented in Casio Baku are official and original Casio products.",
+            "warranty": "All our products come with an official warranty. The warranty period varies from 1 to 2 years depending on the product type. A warranty card is provided with the product.",
+            "delivery": "Delivery within Baku is carried out within 1-2 business days. Delivery to regions takes 3-5 business days. Delivery fees are calculated based on the order amount and address.",
+            "payment": "You can pay by cash, bank card, or online payment methods. Cash and card payments are available in our stores. Online orders accept bank cards and other electronic payment systems.",
+            "return": "Yes, it is possible to return or exchange the product. With the receipt and warranty card provided at the time of purchase, you can return or exchange the product within 14 days. The product must be in its original condition and with its packaging.",
+            "discounts": "To get information about discounts and campaigns, you can regularly check our website or subscribe to us on social networks. Information about special campaigns and discounts is also sent via email.",
+            "warrantyService": "Warranty service is provided at official Casio service centers. We have several service centers in Baku. For detailed information about warranty service, you can contact customer service."
+        }
+    },
+    "product": {
+        "similiarProducts": {
+            "title": "Similar products"
+        }
+    },
+    "basket": {
+        "title": "Basket",
+        "selectAll": "Select All",
+        "products": "products",
+        "promoCode": "Promo code",
+        "promoCodePlaceholder": "Enter promo code",
+        "promoCodeWarning": "Attention! Only one promo code can be used.",
+        "promoCodeApplied": "promo code applied",
+        "checking": "Checking...",
+        "cancelPromo": "Cancel",
+        "productPrice": "Product price",
+        "discount": "Discount",
+        "totalPrice": "Total price",
+        "completeOrder": "Complete order",
+        "quantity": "piece",
+        "remove": "Remove",
+        "empty": "Your basket is empty",
+        "likedProducts": "Products you liked",
+        "loading": "Loading...",
+        "clearBasket": "Clear basket"
+    },
+    "confirm": {
+        "title": "Order Confirmation",
+        "contactInfo": "Contact Information",
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Enter your full name",
+        "phoneNumber": "Phone Number",
+        "phonePlaceholder": "Enter your phone number",
+        "deliveryMethod": "Delivery Method",
+        "courierDelivery": "Delivery by courier",
+        "pickupFromStore": "I will pick up from the store.",
+        "selectBranch": "Select branch",
+        "selectStoreBranch": "Select delivery address",
+        "workingHours": "Working hours",
+        "deliveryAddressTitle": "Enter the delivery address for the order.",
+        "city": "City",
+        "cityPlaceholder": "Enter city",
+        "postalCode": "Postal Code",
+        "postalCodePlaceholder": "Enter your postal code",
+        "address": "Address",
+        "addressPlaceholder": "Enter delivery address",
+        "paymentMethod": "Payment Method",
+        "cardPayment": "Payment by plastic card",
+        "cashOnDelivery": "Payment to courier",
+        "installmentPayment": "Installment payment",
+        "selectPaymentPeriod": "Select payment period.",
+        "monthly": "Monthly",
+        "addNote": "Add note",
+        "note": "Note",
+        "notePlaceholder": "Enter your note",
+        "agreeToTerms": "I agree with the",
+        "termsAndConditions": "terms and conditions",
+        "backToBasket": "Back to basket",
+        "continue": "Continue",
+        "basketTitle": "Basket",
+        "products": "products",
+        "quantity": "piece",
+        "promoCodeApplied": "Promo code applied",
+        "productPrice": "Product price",
+        "discount": "Discount",
+        "delivery": "Delivery",
+        "finalPrice": "Final price"
+    },
+    "toast": {
+        "basket": {
+            "addSuccess": "Product added to basket",
+            "addError": "Error adding product to basket",
+            "removeSuccess": "Product removed from basket",
+            "removeError": "Error removing product from basket"
+        },
+        "wishlist": {
+            "addSuccess": "Product added to wishlist",
+            "addError": "Error adding product to wishlist",
+            "removeSuccess": "Product removed from wishlist",
+            "removeError": "Error removing product from wishlist"
+        },
+        "auth": {
+            "loginSuccess": "Successfully logged in",
+            "loginError": "Error logging in",
+            "logoutSuccess": "Successfully logged out",
+            "otpSent": "Verification code sent",
+            "registerError": "Error during registration",
+            "otpVerified": "Verification code verified",
+            "otpError": "Invalid verification code",
+            "passwordSet": "Password successfully set",
+            "passwordChanged": "Password successfully changed",
+            "forgotMailSent": "Password reset code sent",
+            "passwordReset": "Password successfully reset"
+        },
+        "promocode": {
+            "checkSuccess": "Promo code successfully applied",
+            "checkError": "Promo code is invalid or not active"
+        },
+        "order": {
+            "createSuccess": "Order created successfully",
+            "createError": "Error creating order"
+        }
+    }
+}
