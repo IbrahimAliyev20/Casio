@@ -32,31 +32,38 @@ const convertProductToCardData = (product: Product, locale: string): ProductCard
   const price = rawPrice !== null && rawPrice !== undefined && rawPrice !== ""
     ? (typeof rawPrice === "string" ? parseFloat(rawPrice) : rawPrice)
     : 0;
-  
+
   // Safely parse discount_price - handle null, undefined, empty string
   const rawDiscountPrice = product.discount_price;
   const discountPrice = rawDiscountPrice !== null && rawDiscountPrice !== undefined && rawDiscountPrice !== ""
     ? (typeof rawDiscountPrice === "string" ? parseFloat(rawDiscountPrice) : rawDiscountPrice)
     : null;
-  
+
   // Ensure price is always a valid number
-  const finalPrice = (discountPrice && discountPrice > 0 && !isNaN(discountPrice)) 
-    ? discountPrice 
+  const finalPrice = (discountPrice && discountPrice > 0 && !isNaN(discountPrice))
+    ? discountPrice
     : (price && !isNaN(price) ? price : 0);
-  
+
   const finalOriginalPrice = (discountPrice && discountPrice > 0 && !isNaN(discountPrice) && price && !isNaN(price))
     ? price
     : undefined;
-  
+
   return {
     id: product.id,
     image: product.image || product.thumb_image || "/images/saat.png",
+    thumb_image: product.thumb_image,
     title: product.name,
+    name: product.name,
     price: finalPrice,
     originalPrice: finalOriginalPrice,
+    discount_price: product.discount_price,
     href: `/${locale}/${product.slug}`,
+    slug: product.slug,
     category: product.category,
+    stock: product.stock,
     outOfStock: product.stock === 0,
+    attributes: product.attributes,
+    collection_products: product.collection_products,
   };
 };
 

@@ -39,7 +39,6 @@ export default function ProductSingle({ product }: ProductSingleProps) {
   const addToBasketMutation = useAddToBasketMutation({
     locale,
     onSuccess: () => {
-      // Dispatch event to update basket count in header
       window.dispatchEvent(new Event("basketUpdated"));
     },
   });
@@ -47,7 +46,6 @@ export default function ProductSingle({ product }: ProductSingleProps) {
   const addToWishlistMutation = useAddToWishlistMutation();
   const removeFromWishlistMutation = useRemoveFromWishlistMutation();
   
-  // Check if product is in wishlist
   const { data: wishlistData } = useQuery(getWishlistQuery(locale));
 
   const productData: ProductCardData | null = useMemo(() => {
@@ -79,7 +77,7 @@ export default function ProductSingle({ product }: ProductSingleProps) {
     return productDetails.data.collection_products.slice(0, 5); // Limit to 5
   }, [productDetails]);
 
-  // Check if product is favorited from API
+
   useEffect(() => {
     if (wishlistData?.data && productData?.id) {
       const isInWishlist = wishlistData.data.some((product) => product.id === productData.id);
@@ -93,10 +91,8 @@ export default function ProductSingle({ product }: ProductSingleProps) {
 
     if (!productData?.id) return;
 
-    // Check if user is authenticated
     const token = Cookies.get("access_token");
     if (!token) {
-      // Dispatch event to open login modal in header
       window.dispatchEvent(new Event("openLoginModal"));
       return;
     }
@@ -107,11 +103,9 @@ export default function ProductSingle({ product }: ProductSingleProps) {
     try {
       if (newFavoritedState) {
         await addToWishlistMutation.mutateAsync(productData.id);
-        // Dispatch event to update favorites count in header
         window.dispatchEvent(new Event("favoritesUpdated"));
       } else {
         await removeFromWishlistMutation.mutateAsync(productData.id);
-        // Dispatch event to update favorites count in header
         window.dispatchEvent(new Event("favoritesUpdated"));
       }
     } catch (error) {
@@ -208,8 +202,9 @@ export default function ProductSingle({ product }: ProductSingleProps) {
   };
 
   const handleWhatsAppContact = () => {
+    const productName = productDetails?.data?.name || productData?.title || "məhsul";
     const message = encodeURIComponent(
-      `Salam, ${productData.title} məhsulu haqqında məlumat istəyirəm.`
+      `Salam, ${productName} məhsulu haqqında məlumat istəyirəm.`
     );
     window.open(`https://wa.me/${contact?.data?.whatsapp_contact}?text=${message}`, "_blank");
   };

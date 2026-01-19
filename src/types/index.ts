@@ -123,6 +123,8 @@ export interface Product {
       attribute_value: string;
   }
 export interface CollectionProduct {
+    id: number;
+    name: string;
     slug: string;
     image: string;
     thumb_image: string;
